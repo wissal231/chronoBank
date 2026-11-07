@@ -1,0 +1,17 @@
+# Environnement Python
+venv/
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Configuration locale
+.env
+
+# Fichiers temporaires
+*.tmp

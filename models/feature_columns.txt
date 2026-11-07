@@ -1,0 +1,13 @@
+n_events
+n_tx
+n_login
+n_failed
+n_new_device
+n_foreign
+pct_night
+hour_mean
+amount_mean
+amount_max
+amount_ratio
+min_gap
+mean_gap
