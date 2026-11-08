@@ -1,0 +1,4 @@
+attack_scenario,total_cases,detected_cases,detection_rate
+account_takeover,100,100,1.0
+foreign_login,100,100,1.0
+small_payment_fraud,100,100,1.0
